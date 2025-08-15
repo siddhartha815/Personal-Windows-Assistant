@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+    <class>MainWindow</class>
+    <widget class="QMainWindow" name="MainWindow">
+        <property name="geometry">
+            <rect>
+                <x>0</x>
+                <y>0</y>
+                <width>1920</width>
+                <height>1080</height>
+            </rect>
+        </property>
+        <property name="windowTitle">
+            <string>MainWindow</string>
+        </property>
+        <widget class="QWidget" name="centralwidget">
+            <widget class="QLabel" name="label_3">
+                <property name="geometry">
+                    <rect>
+                        <x>0</x>
+                        <y>0</y>
+                        <width>1920</width>
+                        <height>1080</height>
+                    </rect>
+                </property>
+                <property name="text">
+                    <string/>
+                </property>
+                <property name="pixmap">
+                    <pixmap>Mira/utils/images/wallpaper.jpg</pixmap>
+                </property>
+                <property name="scaledContents">
+                    <bool>true</bool>
+                </property>
+            </widget>
+            <widget class="QLabel" name="label">
+                <property name="geometry">
+                    <rect>
+                        <x>800</x>
+                        <y>350</y>
+                        <width>300</width>
+                        <height>300</height>
+                    </rect>
+                </property>
+                <property name="text">
+                    <string/>
+                </property>
+                <property name="pixmap">
+                    <pixmap>Mira/utils/images/live_wallpaper.gif</pixmap>
+                </property>
+                <property name="scaledContents">
+                    <bool>true</bool>
+                </property>
+            </widget>
+            <widget class="QLabel" name="label_4">
+                <property name="geometry">
+                    <rect>
+                        <x>1400</x>
+                        <y>30</y>
+                        <width>400</width>
+                        <height>400</height>
+                    </rect>
+                </property>
+                <property name="text">
+                    <string/>
+                </property>
+                <property name="pixmap">
+                    <pixmap>Mira/utils/images/design_2.gif</pixmap>
+                </property>
+                <property name="scaledContents">
+                    <bool>true</bool>
+                </property>
+            </widget>
+            <widget class="QLabel" name="label_5">
+                <property name="geometry">
+                    <rect>
+                        <x>20</x>
+                        <y>520</y>
+                        <width>420</width>
+                        <height>375</height>
+                    </rect>
+                </property>
+                <property name="text">
+                    <string/>
+                </property>
+                <property name="pixmap">
+                    <pixmap>Mira/utils/images/design_3.gif</pixmap>
+                </property>
+                <property name="scaledContents">
+                    <bool>true</bool>
+                </property>
+            </widget>
+            <widget class="QLabel" name="label_6">
+                <property name="geometry">
+                    <rect>
+                        <x>100</x>
+                        <y>150</y>
+                        <width>300</width>
+                        <height>300</height>
+                    </rect>
+                </property>
+                <property name="text">
+                    <string/>
+                </property>
+                <property name="pixmap">
+                    <pixmap>Mira/utils/images/design_4.gif</pixmap>
+                </property>
+                <property name="scaledContents">
+                    <bool>true</bool>
+                </property>
+            </widget>
+            <widget class="QLabel" name="label_7">
+                <property name="geometry">
+                    <rect>
+                        <x>600</x>
+                        <y>660</y>
+                        <width>666</width>
+                        <height>300</height>
+                    </rect>
+                </property>
+                <property name="text">
+                    <string/>
+                </property>
+                <property name="pixmap">
+                    <pixmap>Mira/utils/images/design_5.gif</pixmap>
+                </property>
+                <property name="scaledContents">
+                    <bool>true</bool>
+                </property>
+            </widget>
+            <widget class="QPushButton" name="pushButton">
+                <property name="geometry">
+                    <rect>
+                        <x>1440</x>
+                        <y>850</y>
+                        <width>121</width>
+                        <height>61</height>
+                    </rect>
+                </property>
+                <property name="styleSheet">
+                    <string notr="true">background-color: rgb(0, 170, 255);
+font: 75 18pt &quot;MS Shell Dlg 2&quot;;</string>
+                </property>
+                <property name="text">
+                    <string>Run</string>
+                </property>
+            </widget>
+            <widget class="QPushButton" name="pushButton_2">
+                <property name="geometry">
+                    <rect>
+                        <x>1670</x>
+                        <y>850</y>
+                        <width>121</width>
+                        <height>61</height>
+                    </rect>
+                </property>
+                <property name="styleSheet">
+                    <string notr="true">background-color:rgb(255, 0, 0);
+font: 75 18pt &quot;MS Shell Dlg 2&quot;;</string>
+                </property>
+                <property name="text">
+                    <string>Exit</string>
+                </property>
+            </widget>
+            <widget class="QLabel" name="label_2">
+                <property name="geometry">
+                    <rect>
+                        <x>20</x>
+                        <y>2</y>
+                        <width>400</width>
+                        <height>91</height>
+                    </rect>
+                </property>
+                <property name="text">
+                    <string/>
+                </property>
+                <property name="pixmap">
+                    <pixmap>Mira/utils/images/initiating.gif</pixmap>
+                </property>
+            </widget>
+            <widget class="QTextBrowser" name="textBrowser">
+                <property name="geometry">
+                    <rect>
+                        <x>700</x>
+                        <y>24</y>
+                        <width>291</width>
+                        <height>61</height>
+                    </rect>
+                </property>
+                <property name="styleSheet">
+                    <string notr="true">font: 75 16pt &quot;MS Shell Dlg 2&quot;;
+background-color:transparent;
+border-radius:none;
+</string>
+                </property>
+            </widget>
+            <widget class="QTextBrowser" name="textBrowser_2">
+                <property name="geometry">
+                    <rect>
+                        <x>1200</x>
+                        <y>24</y>
+                        <width>291</width>
+                        <height>61</height>
+                    </rect>
+                </property>
+                <property name="styleSheet">
+                    <string notr="true">font: 75 16pt &quot;MS Shell Dlg 2&quot;;
+background-color:transparent;
+border-radius:none;</string>
+                </property>
+            </widget>
+            <widget class="QTextBrowser" name="textBrowser_3">
+                <property name="geometry">
+                    <rect>
+                        <x>1360</x>
+                        <y>470</y>
+                        <width>501</width>
+                        <height>341</height>
+                    </rect>
+                </property>
+                <property name="styleSheet">
+                    <string notr="true">font: 11pt &quot;MS Shell Dlg 2&quot;;
+background-color:transparent;</string>
+                </property>
+            </widget>
+        </widget>
+        <widget class="QMenuBar" name="menubar">
+            <property name="geometry">
+                <rect>
+                    <x>0</x>
+                    <y>0</y>
+                    <width>1920</width>
+                    <height>26</height>
+                </rect>
+            </property>
+        </widget>
+        <widget class="QStatusBar" name="statusbar"/>
+    </widget>
+    <resources/>
+    <connections/>
+</ui>
