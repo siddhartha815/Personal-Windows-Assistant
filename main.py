@@ -35,11 +35,11 @@ GREETINGS = ["hello meera", "meera", "wake up meera", "you there meera", "time t
 GREETINGS_RES = ["i am always there for you", "i am ready", "your wish my command", "how can i help you?", "i am online and ready"]
 
 EMAIL_DIC = {
-    'myself': 'siddharthamahapatra@gmail.com',
-    'my official email': 'siddharthamahapatra@gmail.com',
-    'my second email': 'siddharthamahapatra@gmail.com',
-    'my official mail': 'siddharthamahapatra@gmail.com',
-    'my second mail': 'siddharthamahapatra@gmail.com'
+    'myself': '{Your email goes here}',
+    'my official email': '{Your official email goes here}',
+    'my second email': '{Your second email goes here}',
+    'my official mail': '',
+    'my second mail': ''
 }
 
 CALENDAR_STRS = ["what do i have", "do i have plans", "am i busy"]
