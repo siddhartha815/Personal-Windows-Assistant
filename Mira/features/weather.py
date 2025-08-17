@@ -3,7 +3,7 @@ from Mira.config import config
 
 
 
-weather_api_key = "b2a5261e84b941c1bc7e6ef0abfd1966"
+weather_api_key = "{Your weather API key goes here}"
 
 
 
